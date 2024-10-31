@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Post Navigation Plugin for WordPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-06-15 08:28+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dennis Hoppe\n"
+"Language-Team: Ramerta Grup <admin@ramerta.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: t;t:2c,1\n"
+"X-Poedit-Language: Turkish\n"
+"X-Poedit-Country: TURKEY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-plugin-widget-post-navigation.php:27
+#: ../wp-plugin-widget-post-navigation.php:57
+msgid "Post Navigation"
+msgstr "Yazı Yönlendirme"
+
+#: ../wp-plugin-widget-post-navigation.php:28
+msgid "You can use this Widget to show the next or previous post link on single post views."
+msgstr "Tek yazı görünümlerinde bu bileşeni kullanarak ilerideki veya gerideki yazıya link verebilirsiniz."
+
+#: ../post-navigation-widget.php:40
+msgid "To the post"
+msgstr "Yazısı"
+
+#: ../form.php:1
+msgid "Title"
+msgstr "Başlık"
+
+#: ../form.php:8
+msgid "Title of the adjacent post."
+msgstr "Yakın yazının başlığı."
+
+#: ../form.php:12
+msgid "Navigation direction"
+msgstr "Yönlendirme yöne"
+
+#: ../form.php:15
+msgid "Display the next post."
+msgstr "Sıradaki yazıyı göster"
+
+#: ../form.php:19
+msgid "Display the previous post."
+msgstr "Önceki yazıyı göster"
+
+#: ../form.php:23
+msgid "Display only posts in the same category."
+msgstr "Sadece aynı kategorideki yazıları göster."
+
+#: ../form.php:28
+msgid "Display"
+msgstr "Göster"
+
+#: ../form.php:31
+msgid "Display the post title."
+msgstr "Yazı başlığını göster."
+
+#: ../form.php:35
+msgid "Display the post date."
+msgstr "Yazı tarihini göster."
+
+#: ../form.php:39
+msgid "Display the post author."
+msgstr "Yazının yazarını göster."
+
+#: ../form.php:43
+msgid "Display the full post content."
+msgstr "Tüm yazı içeriğini göster."
+
+#: ../form.php:47
+msgid "Display the excerpt."
+msgstr "Alıntıyı göster."
+
+#: ../form.php:51
+msgid "Display a thumbnail image."
+msgstr "Küçük resimi göster"
+
+#: ../form.php:54
+msgid "Thumbnail adjustment:"
+msgstr "Küçük resim ayarı:"
+
+#: ../form.php:56
+msgid "None"
+msgstr "Hiçbiri"
+
+#: ../form.php:57
+msgid "Left"
+msgstr "Sol"
+
+#: ../form.php:58
+msgid "Right"
+msgstr "Sağ"
+
+#: ../form.php:63
+msgid "Do not display any content."
+msgstr "Hiçbir içerik gösterme."
+
+#: ../form.php:67
+msgid "Display a link to the post."
+msgstr "Yazıya bir link göster."
+
+#: ../form.php:71
+msgid "Exclude categories"
+msgstr "Kategorileri yok say"
+
+#: ../form.php:73
+msgid "Here you can choose categories which should <strong>excluded</strong>:"
+msgstr "Hangi kategorilerin <strong>YOK SAYILACAĞINI</strong> buradan seçebilirsin:"
+

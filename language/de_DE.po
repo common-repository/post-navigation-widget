@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Post Navigation Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-10-08 15:29+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dennis Hoppe\n"
+"Language-Team: Dennis Hoppe\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: t;t:2c,1\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-plugin-widget-post-navigation.php:32
+#: ../wp-plugin-widget-post-navigation.php:62
+msgid "Post Navigation"
+msgstr "Artikelnavigation"
+
+#: ../wp-plugin-widget-post-navigation.php:33
+msgid "You can use this Widget to show the next or previous post link on single post views."
+msgstr "Sie können dieses Widget einsetzen um den nächsten bzw. vorhergehenden Artikel anzuzeigen."
+
+#: ../post-navigation-widget.php:40
+msgid "To the post"
+msgstr "Zum Artikel"
+
+#: ../form.php:1
+msgid "Title"
+msgstr "Titel"
+
+#: ../form.php:8
+msgid "Title of the adjacent post."
+msgstr "Titel des benachbarten Artikels."
+
+#: ../form.php:12
+msgid "Navigation direction"
+msgstr "Navigationsrichtung"
+
+#: ../form.php:15
+msgid "Display the next post."
+msgstr "Den nächsten Artikel zeigen."
+
+#: ../form.php:19
+msgid "Display the previous post."
+msgstr "Den vorherigen Artikel anzeigen."
+
+#: ../form.php:23
+msgid "Display only posts in the same category."
+msgstr "Nur Artikel aus der selben Kategorie anzeigen."
+
+#: ../form.php:28
+msgid "Display"
+msgstr "Anzeige"
+
+#: ../form.php:31
+msgid "Display the post title."
+msgstr "Artikeltitel anzeigen."
+
+#: ../form.php:35
+msgid "Display the post date."
+msgstr "Artikeldatum anzeigen."
+
+#: ../form.php:39
+msgid "Display the post author."
+msgstr "Artikelauthor anzeigen."
+
+#: ../form.php:43
+msgid "Display the full post content."
+msgstr "Den ganzen Inhalt anzeigen."
+
+#: ../form.php:47
+msgid "Display the excerpt."
+msgstr "Einen Auszug anzeigen."
+
+#: ../form.php:51
+msgid "Display a thumbnail image."
+msgstr "Ein Vorschaubild anzeigen."
+
+#: ../form.php:54
+msgid "Thumbnail adjustment:"
+msgstr "Vorschaubildausrichtung:"
+
+#: ../form.php:56
+msgid "None"
+msgstr "Keine"
+
+#: ../form.php:57
+msgid "Left"
+msgstr "Links"
+
+#: ../form.php:58
+msgid "Right"
+msgstr "Rechts"
+
+#: ../form.php:63
+msgid "Do not display any content."
+msgstr "Den Inhalt nicht anzeigen."
+
+#: ../form.php:67
+msgid "Display a link to the post."
+msgstr "Einen Link zum Artikel anzeigen."
+
+#: ../form.php:71
+msgid "Exclude categories"
+msgstr "Kategorien ausschließen"
+
+#: ../form.php:73
+msgid "Here you can choose categories which should <strong>excluded</strong>:"
+msgstr "Hier können Sie Kategorien auswählen deren Artikel <strong>nicht berücksichtigt</strong> werden sollen:"
+
+#~ msgid "Read next post &raquo;"
+#~ msgstr "Zum nächsten Artikel &raquo;"
+#~ msgid "&laquo; Read previous post"
+#~ msgstr "&laquo; Zum vorherigen Artikel"
+#~ msgid "Post navigation Widget"
+#~ msgstr "Artikelnavigations-Widget"
+#~ msgid "Widget title"
+#~ msgstr "Widgettitel"
+#~ msgid ""
+#~ "Try to show the next post. If there is no next post try to show the "
+#~ "previous post."
+#~ msgstr ""
+#~ "Versuche den nächsten Artikel zu zeigen. Wenn es keinen Nachfolgeartikel "
+#~ "gibt zeige den Vorherigen."
+#~ msgid ""
+#~ "Try to show the previous post. If there is no previous post try to show "
+#~ "the next post."
+#~ msgstr ""
+#~ "Versuche den vorhergehenden Artikel zu zeigen. Wenn es keinen Vorherigen "
+#~ "gibt zeige den nächsten Artikel."
+#~ msgid "Link captions"
+#~ msgstr "Linkbeschriftungen"
+#~ msgid "Previous:"
+#~ msgstr "Verhoriger:"
+#~ msgid "Next:"
+#~ msgstr "Nächster:"
+#~ msgid "Content"
+#~ msgstr "Inhalt"
+#~ msgid "Show an excerpt of the adjacent post."
+#~ msgstr "Zeige den Auszug des benachbarten Artikels."
+#~ msgid "Show a thumbnail of the adjacent post."
+#~ msgstr "Zeige ein Vorschaubild für den benachbarten Artikel."
+#~ msgid "Categories"
+#~ msgstr "Kategorien"
+

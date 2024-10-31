@@ -1,0 +1,53 @@
+/* The widget container */
+.widget_post_navigation {
+}
+
+/* The element which contains the link with the post title */
+.widget_post_navigation .post-title {
+}
+
+/* The link with the post title */
+.widget_post_navigation .post-title a {
+}
+
+/* The post date */
+.widget_post_navigation .post-date {
+}
+
+/* The element which contains the link to the post author */
+.widget_post_navigation .post-author {
+}
+
+/* The post author link itself */
+.widget_post_navigation .post-author a {
+}
+
+/* The link which contains the thumbnail image */
+.widget_post_navigation a.post-thumb {
+}
+
+/* The thumbnail image itself */
+.widget_post_navigation a.post-thumb img.thumbnail {
+}
+.widget_post_navigation a.post-thumb img.alignleft { float: left; margin: 0 3px 3px 0; }
+.widget_post_navigation a.post-thumb img.alignright { float: right; margin: 0 0 3px 3px; }
+
+/* The element which contains the excerpt paragraph */
+.widget_post_navigation .excerpt {
+}
+
+/* The excerpt paragraph it self */
+.widget_post_navigation .excerpt p {
+}
+
+/* The element which contains full content */
+.widget_post_navigation .content {
+}
+
+/* The element which contains the more link */
+.widget_post_navigation div.more-link {
+}
+
+/* The more link itself */
+.widget_post_navigation div.more-link a.more-link {
+}
